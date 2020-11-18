@@ -1,1 +1,1 @@
-x = "Hello World"
+x = "This is a new file"
